@@ -7,4 +7,6 @@ int main()
     cout << "hello world";
     cout << "helloworld";
     cout << "fuck";
+    cout << "fuck";
 }
+
